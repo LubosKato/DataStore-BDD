@@ -1,0 +1,8 @@
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model.UnitTests\obj\Debug\DataStore.Model.UnitTests.csprojResolveAssemblyReference.cache
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model.UnitTests\bin\Debug\DataStore.Model.UnitTests.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model.UnitTests\bin\Debug\DataStore.Model.UnitTests.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model.UnitTests\bin\Debug\DataStore.Model.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model.UnitTests\bin\Debug\DataStore.Model.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model.UnitTests\obj\Debug\DataStore.Model.UnitTests.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model.UnitTests\obj\Debug\DataStore.Model.UnitTests.pdb

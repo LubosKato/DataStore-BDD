@@ -1,0 +1,23 @@
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\obj\Debug\DataStoreSpecification.csprojResolveAssemblyReference.cache
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\bin\Debug\DataStoreSpecification.dll.config
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\bin\Debug\DataStoreSpecification.dll
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\bin\Debug\DataStoreSpecification.pdb
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\bin\Debug\TechTalk.SpecFlow.dll
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\obj\Debug\DataStoreSpecification.dll
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\obj\Debug\DataStoreSpecification.pdb
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\bin\Debug\Willis.Aviation.DataStore.Model.dll
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\bin\Debug\Willis.Aviation.DataStore.Model.pdb
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\bin\Debug\Moq.dll
+C:\TFS\Aviation\4.5\DataStore\src\Spec\DataStoreSpecification\bin\Debug\Moq.xml
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\obj\Debug\DataStoreSpecification.csprojResolveAssemblyReference.cache
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\obj\Debug\DataStoreSpecification.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\obj\Debug\DataStoreSpecification.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\DataStoreSpecification.dll.config
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\DataStoreSpecification.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\DataStoreSpecification.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\DataStore.Model.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\Moq.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\TechTalk.SpecFlow.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\DataStore.Model.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\Spec\DataStoreSpecification\bin\Debug\Moq.xml

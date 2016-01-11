@@ -1,0 +1,5 @@
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model\bin\Debug\DataStore.Model.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model\bin\Debug\DataStore.Model.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model\obj\Debug\DataStore.Model.csprojResolveAssemblyReference.cache
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model\obj\Debug\DataStore.Model.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Model\obj\Debug\DataStore.Model.pdb

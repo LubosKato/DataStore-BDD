@@ -1,0 +1,14 @@
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\DataStore.Repository.Dapper.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\DataStore.Repository.Dapper.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\Dapper.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\DataStore.Model.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\DataStore.Repository.Abstractions.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\Shared.Membership.Service.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\DataStore.Model.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\DataStore.Repository.Abstractions.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\Shared.Membership.Service.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\Dapper.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\bin\Debug.LK\Dapper.xml
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\obj\Debug.LK\DataStore.Repository.Dapper.csprojResolveAssemblyReference.cache
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\obj\Debug.LK\DataStore.Repository.Dapper.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Repository.Dapper\obj\Debug.LK\DataStore.Repository.Dapper.pdb

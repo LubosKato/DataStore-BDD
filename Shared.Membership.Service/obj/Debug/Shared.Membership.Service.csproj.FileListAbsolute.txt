@@ -1,0 +1,5 @@
+D:\Dropbox\CV\8\code Willis\DataStore\src\Shared.Membership.Service\bin\Debug\Shared.Membership.Service.dll
+D:\Dropbox\CV\8\code Willis\DataStore\src\Shared.Membership.Service\bin\Debug\Shared.Membership.Service.pdb
+D:\Dropbox\CV\8\code Willis\DataStore\src\Shared.Membership.Service\obj\Debug\Shared.Membership.Service.csprojResolveAssemblyReference.cache
+D:\Dropbox\CV\8\code Willis\DataStore\src\Shared.Membership.Service\obj\Debug\Shared.Membership.Service.dll
+D:\Dropbox\CV\8\code Willis\DataStore\src\Shared.Membership.Service\obj\Debug\Shared.Membership.Service.pdb

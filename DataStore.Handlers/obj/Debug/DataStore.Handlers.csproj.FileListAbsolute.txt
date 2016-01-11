@@ -1,0 +1,9 @@
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\bin\Debug\DataStore.Handlers.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\bin\Debug\DataStore.Handlers.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\bin\Debug\DataStore.Model.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\bin\Debug\DataStore.Repository.Abstractions.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\bin\Debug\DataStore.Model.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\bin\Debug\DataStore.Repository.Abstractions.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\obj\Debug\DataStore.Handlers.csprojResolveAssemblyReference.cache
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\obj\Debug\DataStore.Handlers.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers\obj\Debug\DataStore.Handlers.pdb

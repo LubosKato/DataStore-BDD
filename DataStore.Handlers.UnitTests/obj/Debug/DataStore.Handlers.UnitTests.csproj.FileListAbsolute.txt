@@ -1,0 +1,14 @@
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\obj\Debug\DataStore.Handlers.UnitTests.csprojResolveAssemblyReference.cache
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\DataStore.Handlers.UnitTests.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\DataStore.Handlers.UnitTests.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\DataStore.Handlers.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\DataStore.Model.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\DataStore.Repository.Abstractions.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\Moq.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\DataStore.Handlers.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\DataStore.Model.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\DataStore.Repository.Abstractions.pdb
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\bin\Debug\Moq.xml
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\obj\Debug\DataStore.Handlers.UnitTests.dll
+d:\Dropbox\CV\8\code Willis\DataStore\src\DataStore.Handlers.UnitTests\obj\Debug\DataStore.Handlers.UnitTests.pdb
